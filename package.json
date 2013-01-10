@@ -1,0 +1,12 @@
+{
+  "name": "monprox",
+  "version": "0.0.1",
+  "description": "A simple proxy for test development with Rackspace's Cloud Monitoring API",
+  "repository": "",
+  "author": "Ed Rooth",
+  "license": "BSD",
+  "bin": "./bin/monprox",
+  "dependencies": {
+    "request": "~2.12.0"
+  }
+}

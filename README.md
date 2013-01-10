@@ -1,0 +1,3 @@
+- Run `npm install`
+- Add your username and api key to config.json
+- Then run `node monprox`
